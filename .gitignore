@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+build/
+dist/
+releases/
+obj/
+bin/
+*.egg-info/
+.env
+saved_words.json
+lookup_cache.json
+data/raw/
+data/generated/
